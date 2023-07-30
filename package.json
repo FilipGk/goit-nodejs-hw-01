@@ -1,0 +1,1 @@
+{"name":"goit-nodejs-hw-01","start":"node index.js","start:dev":"node index.js","devDependencies":{"nodemon":"^3.0.1"},"dependencies":{"commander":"^11.0.0","uuid":"^9.0.0"}}
